@@ -83,5 +83,5 @@ This is my Web = "https://proallforone-fvdwbvbpgfgbf2ez.westus3-01.azurewebsites
 
 
 
-Peer Review=>
+Peer Review=> Brandon Van Horn - code runs well and i liked your mad lib story it made sense. Some of the code projects dont check for letters or number for example you are asked for a number and enter a word but it accepts both might want to consider adding something for that.
 
