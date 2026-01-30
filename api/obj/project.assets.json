@@ -207,19 +207,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bmdva\\.nuget\\packages\\": {}
+    "/Users/pallavipraveen/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bmdva\\OneDrive\\Documents\\Combine Season 8\\Level 2\\Week 4\\review\\AllForOneAPI\\api\\api.csproj",
+      "projectUniqueName": "/Users/pallavipraveen/Documents/Level-2/asignments/ AllForOneAPI/api/api.csproj",
       "projectName": "api",
-      "projectPath": "C:\\Users\\bmdva\\OneDrive\\Documents\\Combine Season 8\\Level 2\\Week 4\\review\\AllForOneAPI\\api\\api.csproj",
-      "packagesPath": "C:\\Users\\bmdva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bmdva\\OneDrive\\Documents\\Combine Season 8\\Level 2\\Week 4\\review\\AllForOneAPI\\api\\obj\\",
+      "projectPath": "/Users/pallavipraveen/Documents/Level-2/asignments/ AllForOneAPI/api/api.csproj",
+      "packagesPath": "/Users/pallavipraveen/.nuget/packages/",
+      "outputPath": "/Users/pallavipraveen/Documents/Level-2/asignments/ AllForOneAPI/api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\bmdva\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/pallavipraveen/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -289,8 +289,16 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Access to the path '/Users/pallavipraveen/.local/share/NuGet/http-cache/670c1461c29885f9aa22c281d8b7da90845b38e4$ps:_api.nuget.org_v3_index.json/vuln_index.dat-new' is denied."
+    }
+  ]
 }
