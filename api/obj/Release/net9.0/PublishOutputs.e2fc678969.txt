@@ -1,0 +1,12 @@
+/Users/pallavipraveen/Documents/Level-2/asignments/ AllForOneAPI/api/bin/Release/net9.0/publish/api
+/Users/pallavipraveen/Documents/Level-2/asignments/ AllForOneAPI/api/bin/Release/net9.0/publish/appsettings.Development.json
+/Users/pallavipraveen/Documents/Level-2/asignments/ AllForOneAPI/api/bin/Release/net9.0/publish/appsettings.json
+/Users/pallavipraveen/Documents/Level-2/asignments/ AllForOneAPI/api/bin/Release/net9.0/publish/api.dll
+/Users/pallavipraveen/Documents/Level-2/asignments/ AllForOneAPI/api/bin/Release/net9.0/publish/api.deps.json
+/Users/pallavipraveen/Documents/Level-2/asignments/ AllForOneAPI/api/bin/Release/net9.0/publish/api.runtimeconfig.json
+/Users/pallavipraveen/Documents/Level-2/asignments/ AllForOneAPI/api/bin/Release/net9.0/publish/api.pdb
+/Users/pallavipraveen/Documents/Level-2/asignments/ AllForOneAPI/api/bin/Release/net9.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/pallavipraveen/Documents/Level-2/asignments/ AllForOneAPI/api/bin/Release/net9.0/publish/Microsoft.OpenApi.dll
+/Users/pallavipraveen/Documents/Level-2/asignments/ AllForOneAPI/api/bin/Release/net9.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/pallavipraveen/Documents/Level-2/asignments/ AllForOneAPI/api/bin/Release/net9.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/pallavipraveen/Documents/Level-2/asignments/ AllForOneAPI/api/bin/Release/net9.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll

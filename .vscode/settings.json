@@ -5,5 +5,7 @@
         "Dosa",
         "Swashbuckle",
         "webapi"
-    ]
+    ],
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "api/bin/Release/net9.0/publish"
 }
