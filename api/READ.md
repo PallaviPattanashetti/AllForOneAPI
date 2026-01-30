@@ -78,3 +78,10 @@ I was able to excute in swagger
 <!--Web App and static web App-->
 In Azure=> Web App=> create Resource group=> create name => choose location and .net9=> choose free and review and create... once deploy=> go to resource => and browse the domain...and go to Azure=> you can deploy and browse =>
 This is my Web = "https://proallforone-fvdwbvbpgfgbf2ez.westus3-01.azurewebsites.net/"
+
+
+
+
+
+Peer Review=>
+
